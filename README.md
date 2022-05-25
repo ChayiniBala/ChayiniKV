@@ -8,8 +8,12 @@ I can design Wordpress websites and Landing pages for any type of business or pe
 
 You can check out my Twitter at @chayini_ & I write tech contents on https://hashnode.com/@Chayini
 
-Skills: TS / JS / HTML / CSS
+Skills: 
 
+💻TS 
+💻JS 
+💻HTML 
+💻CSS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ChayiniKV)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@Chayini)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@chayini_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/SajiniKV)  
