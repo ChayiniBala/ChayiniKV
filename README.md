@@ -17,7 +17,8 @@ You can check out my Twitter at @chayini_ & I write tech contents on https://has
 
 ## Sample Works
 <img src='https://github.com/ChayiniKV/ChayiniKV/blob/main/Pink%20Minimalist%20Surprising%20Facts%20About%20Blogging%20Blog%20Banner.gif' width='256'/>
-<a href='https://chayini.hashnode.dev/framework-vs-library' target='_blank'>Blog Post</a>
+<a href='https://chayini.hashnode.dev/framework-vs-library' target='_blank'>* Blog Post</a>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ChayiniKV)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@Chayini)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@chayini_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/SajiniKV)  
 
