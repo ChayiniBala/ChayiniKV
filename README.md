@@ -2,13 +2,13 @@
 #### Future MERN Stack Developer
 ![Future MERN Stack Developer](https://github.com/ChayiniKV/ChayiniKV/blob/main/Future%20MERN%20Stack%20Developer.png)
 
-I am from Sri Lanka. I'm a Cisco Certified Network Associate Learning to code and interested in MERN Stack Development. Currently learning ReactJs and engaged in #100DaysofCode challenge.
+I am from Sri Lanka. Learning to code and interested in MERN Stack Development. Currently learning ReactJs and engaged in #100DaysofCode challenge.
 
 I can design Wordpress websites and Landing pages for any type of business or personal requirements.
 
 You can check out my Twitter at @chayini_ & I write tech contents on https://hashnode.com/@Chayini
 
-Skills: TS/JS / HTML / CSS/CCNA
+Skills: TS / JS / HTML / CSS
 
 
 
